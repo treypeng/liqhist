@@ -1,0 +1,16 @@
+{
+  "name": "liqhist",
+  "version": "1.0.0",
+  "description": "Liquidation History Scraper",
+  "main": "liqhist.js",
+  "scripts": {
+    "test": "echo \"no test\""
+  },
+  "keywords": [],
+  "author": "@treypeng [Twitter]",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^4.2.0",
+    "node-fetch": "^2.2.0"
+  }
+}

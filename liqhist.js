@@ -22,7 +22,7 @@ const M_POSITION = 2, M_INSTR = 3, M_SIDE = 4, M_NUMCONTR = 5, M_PRICE = 6;
 
 const Bitmex = require('./bitmex-api-liquidations.js');   // bitmex api helper
 let LiqManager = require('./liq-db-mgr.js');              // sqlite helper
-let mgr = new LiqManager('./db/mexliq-new.db');
+let mgr = new LiqManager('./db/mexliq.db');
 
 
 // start_id; overrideable as a cmdline parameter
