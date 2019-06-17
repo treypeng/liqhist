@@ -1,7 +1,6 @@
 
-==========
-How to use
-==========
+
+## How to use
 
 liqhist.js  -- main script you wanna run
 make-csv.js -- outputs a csv from the database
