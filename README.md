@@ -2,8 +2,8 @@
 
 ## How to use
 
-liqhist.js  -- main script you wanna run
-make-csv.js -- outputs a csv from the database
+- liqhist.js  -- main script you wanna run
+- make-csv.js -- outputs a csv from the database
 
 
 ### Installation 
@@ -13,8 +13,6 @@ make-csv.js -- outputs a csv from the database
 git clone https://github.com/treypeng/liqhist.git
 npm install
 ```
-
-or `yarn` if you have that
 
 Open liqhist.js and set: start_id = [whatever, use zero if you're starting from scratch obviously]
 and the end_id
